@@ -7,7 +7,7 @@ html {
 	box-sizing: border-box;
 }
 
-@media only screen and (min-width: 1008px){
+@media only screen and (min-width: 900px){
 /* For desktop: */
 .col-1 {width: 8.33%;}
 .col-2 {width: 16.66%;}
